@@ -36,12 +36,3 @@ A step-by-step API Test Automation Framework built using **Java**, **Cucumber (B
 - Test PUT and DELETE endpoints with assertions  
 - Handle and verify nested JSON responses  
 
----
-
-## 📋 Getting Started
-
-1. **Clone the repository**
-
-   ```bash
-   git clone [YOUR_REPO_URL_HERE]
-   cd [YOUR_PROJECT_DIRECTORY]
