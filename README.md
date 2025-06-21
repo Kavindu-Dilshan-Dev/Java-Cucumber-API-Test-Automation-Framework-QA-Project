@@ -1,42 +1,47 @@
-﻿# Java Cucumber API Test Automation Framework
+# Java Cucumber API Test Automation Framework
 
- ## This project is a step-by-step API Test Automation Framework built using Java, Cucumber (BDD), and REST-assured, designed in IntelliJ IDEA. It covers the fundamental to advanced topics of API testing, including automated validation of HTTP methods (GET, POST, PUT, DELETE), response codes, and nested JSON data.
+A step-by-step API Test Automation Framework built using **Java**, **Cucumber (BDD)**, and **REST-assured**, designed with **IntelliJ IDEA**. This project covers fundamental to advanced topics in API testing, including automated validation of HTTP methods (GET, POST, PUT, DELETE), response codes, and working with nested JSON data.
 
+---
 
-🚀 Include in this Project
+## 🚀 Project Highlights
 
-1.What is an API & importance of API Testing
-2.Manual API testing using Postman
-3.Working with nested JSON responses
-4.Setting up Java, Maven, and IntelliJ IDEA
-5.Adding dependencies for Cucumber & REST-assured
-6.Writing BDD-style feature files and step definitions
-7.Validating API status codes and response bodies
-8.Running tests in debug mode
-9.Generating test reports using Cucumber
+- Understand **What is an API** and the importance of API Testing  
+- Manual API testing demonstration using **Postman**  
+- Handling and validating **nested JSON responses**  
+- Setting up Java, Maven, and IntelliJ IDEA environment  
+- Adding dependencies for **Cucumber** and **REST-assured**  
+- Writing BDD-style **feature files** and **step definitions**  
+- Validating API status codes and response bodies with assertions  
+- Running tests in **debug mode** for troubleshooting  
+- Generating detailed **Cucumber HTML test reports**
 
-🛠 Technologies Used
-- Java 11
-- Cucumber (BDD)
-- REST-assured
-- Maven
-- IntelliJ IDEA
-- Postman
+---
 
-✅ Sample Test Scenarios
-- Verify GET API status code and response body
-- Validate POST API response creation
-- Test PUT and DELETE endpoints with assertions
-- Handle and test nested JSON responses
+## 🛠 Technologies Used
 
-📋 Getting Started
-Clone this repo
+- Java 11  
+- Cucumber (Behavior Driven Development)  
+- REST-assured (API testing library)  
+- Maven (Build automation & dependency management)  
+- IntelliJ IDEA (IDE)  
+- Postman (Manual API testing tool)  
 
-Open in IntelliJ IDEA
+---
 
-Install dependencies using Maven
+## ✅ Sample Test Scenarios
 
-Run tests using the test runner or Cucumber plugin
+- Verify GET API status code and response body  
+- Validate POST API response creation  
+- Test PUT and DELETE endpoints with assertions  
+- Handle and verify nested JSON responses  
 
-📊 Reporting
-Cucumber HTML reports are generated automatically after test execution, showing test results in a clear format.
+---
+
+## 📋 Getting Started
+
+1. **Clone the repository**
+
+   ```bash
+   git clone [YOUR_REPO_URL_HERE]
+   cd [YOUR_PROJECT_DIRECTORY]
